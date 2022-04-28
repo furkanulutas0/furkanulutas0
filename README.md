@@ -33,7 +33,7 @@ Hello, my name is Furkan, and I'd like to introduce myself. Dogus University is 
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://i.hizliresim.com/kipcd2o.png" align="center" height="200" width="" />
+<img src="https://i.hizliresim.com/kipcd2o.png" align="center" height="300" width="" />
 </div>  
 
 
@@ -96,5 +96,3 @@ Hello, my name is Furkan, and I'd like to introduce myself. Dogus University is 
             </a></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
