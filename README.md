@@ -94,5 +94,5 @@ Hello, my name is Furkan, and I'd like to introduce myself. Dogus University is 
                     align="center"
                 />
             </a></div>
-<br />
+<br /> 
 
