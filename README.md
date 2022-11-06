@@ -20,10 +20,10 @@ Hello, my name is Furkan, and I'd like to introduce myself. Dogus University is 
 ## What am I doing?  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Quiz Show](https://github.com/furkanulutas0/quizShow)  
+- 🔭 I’m currently working on some CPP projects.  
   
 
-- 🌱 I’m currently learning Python, Django and some front-end languages.   
+- 🌱 I’m currently learning CPP, JS and some front-end languages.   
   
 
 - ⚡ You can give me suggest for my projects or my technics.   
