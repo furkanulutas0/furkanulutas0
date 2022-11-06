@@ -23,10 +23,11 @@ Hello, my name is Furkan, and I'd like to introduce myself. Dogus University is 
 ## What am I doing?  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 My last project is [Quiz Show](https://github.com/furkanulutas0/quizShow) I’m currently working on some CPP projects.  
+- 🔭 My last project is the [Quiz Show](https://github.com/furkanulutas0/quizShow). 
+And you can reach my "[Document Tracker](https://www.linkedin.com/posts/furkan-ulutas_de%C4%9Ferli-ba%C4%9Flant%C4%B1lar%C4%B1m-ve-arkada%C5%9Flar-bug%C3%BCn-activity-6970666278206222337-YHOf?utm_source=share&utm_medium=member_desktop)" project, whose source code I haven't shared yet, on Linkedin. I’m currently working on some CPP projects.  
   
 
-- 🌱 I’m currently learning CPP, JS and some front-end languages.   
+- 🌱 I’m currently learning CPP, C# and some front-end languages.   
   
 
 - ⚡ You can give me suggest for my projects or my technics.   
