@@ -12,8 +12,7 @@
 
 
 ### Glad to see you here!  
-Hello, my name is Furkan, and I'd like to introduce myself. Dogus University is where I am a software engineering student. At the same time, I am a member of the Muhendis Beyinler Club's committee and the club's social media manager. I'm here to share my projecets and browse others' projects.  
-  
+Hello, my name is Furkan, and I'd like to introduce myself. Dogus University is where I am a software engineering student. I'm here to share my projecets and browse others' projects.
 
 <br/>  
 
