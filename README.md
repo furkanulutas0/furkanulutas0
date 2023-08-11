@@ -1,12 +1,17 @@
 ## Hey 👋, I'm Furkan!  
   
 
-<a href="https://github.com/furkanulutas0" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/furkan-ulutas" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="https://leetcode.com/furkanulutas0/" target = "_blank">
+  <img src=https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Ffurkanulutas0&logo=leetcode&logoColor=yellow/>
+</a>  
+
+<a href="https://instagram.com/ifurkanulutas" target="_blank">
+<img src=https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white alt=hackerrank style="margin-bottom: 5px;" />
+</a>  
+
 <a href="https://instagram.com/ifurkanulutas" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
@@ -14,35 +19,11 @@
 
 
 
-### Glad to see you here!  
-Hello, my name is Furkan, and I'd like to introduce myself. Dogus University is where I am a software engineering student. I'm here to share my projects and browse others' projects.
+### <p align = "center">Glad to see you here!</p>  
+<p align = "center">"Hello, my name is Furkan, and I'd like to introduce myself. Dogus University is where I am a software engineering student. I'm here to share my projects and browse others' projects.</p>
 
 <br/>  
 
-
-## What am I doing?  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 My last project is the [Quiz Show](https://github.com/furkanulutas0/quizShow). 
-And you can reach my "[Document Tracker](https://www.linkedin.com/posts/furkan-ulutas_de%C4%9Ferli-ba%C4%9Flant%C4%B1lar%C4%B1m-ve-arkada%C5%9Flar-bug%C3%BCn-activity-6970666278206222337-YHOf?utm_source=share&utm_medium=member_desktop)" project, whose source code I haven't shared yet, on Linkedin. I’m currently working on some CPP projects.  
-  
-
-- 🌱 I’m currently learning CPP, C# and some front-end languages.   
-  
-
-- ⚡ You can give me suggest for my projects or my technics.   
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://i.hizliresim.com/kipcd2o.png" align="center" height="300" width="" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
 
 
 ## Languages and Tools  
