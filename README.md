@@ -2,6 +2,13 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=furkanulutas0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/furkanulutas0/furkanulutas0/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/furkanulutas0/furkanulutas0/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/furkanulutas0/furkanulutas0/output/github-contribution-grid-snake.svg">
+</picture>
+
+<div align="center">
 <a href="https://linkedin.com/in/furkan-ulutas" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -15,14 +22,8 @@
 
 <a href="https://instagram.com/ifurkanulutas" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/furkanulutas0/furkanulutas0/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/furkanulutas0/furkanulutas0/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/furkanulutas0/furkanulutas0/output/github-contribution-grid-snake.svg">
-</picture>
+</a> 
+</div>
 
 ### <br><p>Glad to see you here!</p>  
 - 🎓 I'm currently studying Software Engineering at Doğuş University.
