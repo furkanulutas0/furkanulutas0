@@ -1,6 +1,6 @@
 ## Hey, I'm Furkan!  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=furkanulutas0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=furkanulutas0&theme=dracula&no-bg=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/furkanulutas0/furkanulutas0/output/github-contribution-grid-snake-dark.svg">
