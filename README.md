@@ -26,10 +26,9 @@
 </div>
 
 ## <br><p>Glad to see you here!</p>  
-- 🎓 I'm currently studying Software Engineering at Doğuş University (4/4).
-- 💻 I'm passionate about full-stack development and solving real-world problems.
+- 🎓 I'm currently working at Koç Finansman A.Ş.
+- 💻 I'm passionate about full-stack development.
 - 🚀 Currently exploring new technologies in cloud computing and AI-assisted systems.
-- 📚 Actively contributing to projects and collaborating with student communities.
 - 🧩 Problem-solving enthusiast on platforms like LeetCode and HackerRank.
  
 <br/>  
